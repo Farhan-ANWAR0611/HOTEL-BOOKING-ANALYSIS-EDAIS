@@ -129,4 +129,5 @@ Which is the home country of guest?
 (11) most of the busiest months are July and August
 
 (12) City hotel has maximum booking from the month April to September but after that there is fall down in booking Now for the Resort hotel March-May,June-August and November-January is busiest month.
+![Screenshot (1)](https://github.com/user-attachments/assets/c9d707cf-e90a-4cef-a9c4-a05351766699)
 
